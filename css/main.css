@@ -53,8 +53,16 @@
 }
 
 body {
-    background-color: #fdfffc;
-    color: #011627;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
     font-size: 100%;
     line-height: 1.4;
+    background-color: #fdfffc;
+    color: #011627;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Changa One', cursive;
+    font-weight: 400;
 }
