@@ -166,3 +166,29 @@ header nav ul li a:hover {
 .page-information {
     text-align: center;
 }
+
+footer nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 10px;
+}
+
+footer nav ul li {
+    display: inline;
+}
+
+#twitter {
+    max-width: 40px;
+    display: block;
+    margin: 0 auto;
+}
+
+#facebook {
+    max-width: 40px;
+    display: block;
+    margin: 0 auto;
+}
+
+#facebook, #twitter {
+    display: inline;
+}
