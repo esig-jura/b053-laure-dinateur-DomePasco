@@ -243,18 +243,23 @@ footer nav ul li img:hover {
 }
 
 /************************************************
-                PAGE CONTACT
+                PAGE INDEX
  ***********************************************/
 
 
 .page-index .realisations {
     padding: 0;
+    margin: 0;
     list-style-type: none;
-
     display: flex;
     flex-wrap: wrap;
 }
 
 .page-index .realisations li {
-    flex-basis: 50%;
+    flex-basis: 45%;
+    padding: 1rem 2.5%;
+}
+
+.page-index .realisations figure {
+    margin: 0;
 }
